@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 882E-94A1
-
- Directory of C:\Users\girim\OneDrive\Desktop\MyProject
-
-31-10-2021  20:36    <DIR>          .
-31-10-2021  20:36    <DIR>          ..
-31-10-2021  20:36               131 text.txt
-               1 File(s)            131 bytes
-               2 Dir(s)  71,461,199,872 bytes free
+change 1
